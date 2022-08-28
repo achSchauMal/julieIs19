@@ -1,0 +1,16 @@
+body {
+    
+}
+
+.images {
+    background: #1d0624;
+}
+
+.images ul li div{
+    display: flex;
+    justify-content: center;
+}
+
+.images ul li div img {
+    margin-top: 5px;
+}
